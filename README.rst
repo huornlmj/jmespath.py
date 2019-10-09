@@ -1,6 +1,8 @@
 JMESPath
 ========
 
+.. image:: https://scan.coverity.com/projects/19378/badge.svg
+   :target: https://scan.coverity.com/projects/huornlmj-jmespath-py
 
 .. image:: https://badges.gitter.im/Join Chat.svg
    :target: https://gitter.im/jmespath/chat
